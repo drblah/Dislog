@@ -1,0 +1,8 @@
+{
+    "api_key": "testkey",
+    "channelid": "channelid",
+
+    "files": [
+        "/var/log/ssh-logins.log"
+    ]
+}
